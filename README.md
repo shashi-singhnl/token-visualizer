@@ -89,26 +89,10 @@ Accepts raw JWT strings (`eyJ...`) and JSON objects `{...}`.
 
 ---
 
-## Signing (optional — removes Unknown Publisher warning)
-
-If your organisation requires signed scripts, a companion script creates a free self-signed certificate:
-
-```powershell
-# Right-click Sign_TokenVisualizer.ps1 → Run with PowerShell
-# Uses only built-in Windows tools — no purchase needed
-# Shows "Shashi Singh | SRA Holding BV" as publisher
-```
-
-See [`Sign_TokenVisualizer.ps1`](Sign_TokenVisualizer.ps1) for details.
-
----
 
 ## Author
 
 **Shashi Singh**  
-Senior IAM Solutions Architect · Enterprise Security Architect  
-[SRA Holding BV](https://sraholding.nl) · Aalsmeer, Netherlands  
-CISSP · TOGAF · SABSA · CISA · AZ-500
 
 ---
 
